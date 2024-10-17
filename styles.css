@@ -1,0 +1,50 @@
+main{
+    margin: auto;
+    width: 400px;
+    border: black solid;
+    margin-top: 100px;
+}
+header{
+    padding: 5px;
+
+}
+
+img{
+    width: 400px;
+    height: 400px;
+}
+.logo{
+    font-size: 30px;
+    margin-left: 10px;
+    display:inline-block;
+    width:10%
+}
+.titulo{
+    display:inline-block;
+    font-size: 15px;
+    width:20%;
+    text-align: left;
+}
+.menu{
+    float: right;
+    text-align: right;
+    width:40%;
+    padding: 10px;
+}
+.emojis{
+    font-size: 30px;
+    padding: 5px;
+}
+
+.emojis .fa-bookmark{
+    float: right;
+}
+.parrafo1{
+    text-align: left;
+    font-size: 15px;
+    padding: 15px;
+}
+.parrafo2{
+    font-size: 15px;
+    padding: 15px;
+}
